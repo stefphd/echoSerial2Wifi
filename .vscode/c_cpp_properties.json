@@ -1,0 +1,13 @@
+{
+    "configurations": [
+        {
+            "name": "SBBMicro",
+            "includePath": [
+                "${LOCALAPPDATA}/Arduino15/packages/esp8266/hardware/esp8266/3.0.2/cores/esp8266/**",
+                "${LOCALAPPDATA}/Arduino15/packages/esp8266/hardware/esp8266/3.0.2/libraries/**",
+                "${LOCALAPPDATA}/Arduino15/packages/esp8266/hardware/esp826/3.0.2/tools/sdk/**"
+            ]
+        }
+    ],
+    "version": 4
+}
